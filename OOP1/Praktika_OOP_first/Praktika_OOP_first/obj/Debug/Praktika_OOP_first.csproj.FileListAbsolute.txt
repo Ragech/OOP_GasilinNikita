@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\bin\Debug\Praktika_OOP_first.exe.config
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\bin\Debug\Praktika_OOP_first.exe
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\bin\Debug\Praktika_OOP_first.pdb
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.Form1.resources
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.Properties.Resources.resources
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.exe
+C:\Users\User\source\repos\Praktika_OOP_first\Praktika_OOP_first\obj\Debug\Praktika_OOP_first.pdb
